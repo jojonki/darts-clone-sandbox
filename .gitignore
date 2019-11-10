@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# not add licensed files
+darts.h
+dictionary.data
+ipadic-vocab.txt
+build_array
